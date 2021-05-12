@@ -10,7 +10,7 @@
     "@simonwep/pickr": "^1.7.1",
     "ant-design-vue": "^1.6.2",
     "axios": "^0.21.1",
-    "codemirror": "^5.55.0",
+    "codemirror": "^5.58.2",
     "core-js": "^3.6.5",
     "moment": "^2.26.0",
     "register-service-worker": "^1.7.1",
