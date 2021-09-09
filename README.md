@@ -5,9 +5,9 @@
 
  #### 代码按单元组件模块式划分，结构清晰、维护简单
 
-[演示地址：https://form.jaymw.site/](https://form.jaymw.site/) （2核1G服务器，请勿攻击）
+[演示地址：https://form.jaymw.site/](https://form.jaymw.site/) 
 
-欢迎有兴趣的同学star，如有问题请提issues 或者联系： 178202798@qq.com
+欢迎有兴趣的同学star，如有问题请提issues 
 以下为截图：
 ![image](https://github.com/jiangmingwen/vue-dynamic-form/blob/master/demo/1.png)
 ![image](https://github.com/jiangmingwen/vue-dynamic-form/blob/master/demo/2.png)
