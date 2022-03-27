@@ -7,7 +7,6 @@
 <script>
 import zhcn from "ant-design-vue/lib/locale-provider/zh_CN";
 
-import FormBuilder from "./components/form-builder/FormBuilder";
 
 export default {
   components: {
@@ -20,7 +19,7 @@ export default {
         list: [],
         config: {}
       },
-      gateway: "http://192.168.16.100:9001",
+      gateway: "http://192.11111.16.100:9111001",
       userModel: {
         access_token:
           "eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VyVHlwZSI6WyI3IiwiIl0sIlVzZXJUeXBlSWQiOlsiZWRlY2E0ODgyN2QyNGQwMGIxYmQ5ZDI4NDc5ODhkZTUiLCIiXSwiSkdGTCI6WyIiLCIiXSwiSWQiOiJkZDRjM2U4M2ZhZTc0ZTQ0OWRlMmI2YTVlNDk0MTM3YiIsIkFwcENvZGUiOiIiLCJVc2VyTmFtZSI6IjExMDEwMTIwMDkwMzA3MjQ5OSIsIkZ1bGxOYW1lIjoiIiwiVXNlckNvZGUiOiIxN2U0Mzg3M2ZkOWE0ZTNlOWEzNzNlNDcwZDM5ZTFkYSIsIkNvdW50cnlJZCI6ImM1MGI1NjA5NjZjYTQxMjBhNDRhMjM1MzQwMzJiMjJjIiwiQ29tcGFueUlkIjoiIiwiQ291bnRyeU5hbWUiOiLnnIHmlZnogrLljoUiLCJDb21wYW55TmFtZSI6IiIsIklkQ2FyZCI6IjExMDEwMTIwMDkwMzA3MjQ5OSIsIm5iZiI6MTU5MjU3Njg2NywiZXhwIjoxNTk1MTY4ODY3LCJpc3MiOiJ3d3cuaHVhbmJvLmNvbSIsImF1ZCI6ImQ1OTk5ODA5MGQ0NzRlMWRiOGIwMGY1N2MxNTEzM2FmIn0.UKvXRj-m_fFXq_zFfZdP3vAVF7GoSdXo1ucZVZT--4A",
